@@ -7,6 +7,7 @@ import '../../components/foda_button.dart';
 import '../../components/oval_paint.dart';
 import '../../constant/route_name.dart';
 import '../../themes/app_theme.dart';
+import '../authentication/authentication_view.dart';
 
 class OnboardView extends StatelessWidget {
   const OnboardView({Key? key}) : super(key: key);
